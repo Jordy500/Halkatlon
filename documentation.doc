@@ -1,0 +1,17 @@
+ID : Identifiant unique pour chaque client.
+Year_Birth : Année de naissance du client.
+Education : Niveau d'éducation (e.g., Graduation, PhD).
+Marital_Status : État civil (e.g., Single, Married).
+Income : Revenu annuel du client.
+Kidhome : Nombre d'enfants vivant à domicile.
+Teenhome : Nombre d'adolescents vivant à domicile.
+Dt_Customer : Date à laquelle le client a été enregistré.
+Recency : Nombre de jours depuis la dernière interaction avec le client.
+MntWines, MntFruits, MntMeatProducts, MntFishProducts, MntSweetProducts, MntGoldProds : Montants dépensés par catégorie de produits.
+NumDealsPurchases : Nombre d'achats réalisés avec une offre spéciale.
+NumWebPurchases, NumCatalogPurchases, NumStorePurchases : Nombre d'achats par différents canaux (en ligne, catalogue, en magasin).
+NumWebVisitsMonth : Nombre de visites sur le site web dans le mois.
+AcceptedCmp1 à AcceptedCmp5 : Indicateurs (1/0) indiquant si le client a accepté une campagne spécifique.
+Complain : Indicateur si le client a émis une plainte (1/0).
+Z_CostContact, Z_Revenue : Variables de coût et de revenus.
+Response : Indicateur si le client a répondu positivement à la dernière campagne.
