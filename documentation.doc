@@ -1,4 +1,4 @@
-ID : Identifiant unique pour chaque client.
+ID : Identifiant unique pour chaque client.                         
 Year_Birth : Année de naissance du client.
 Education : Niveau d'éducation (e.g., Graduation, PhD).
 Marital_Status : État civil (e.g., Single, Married).
